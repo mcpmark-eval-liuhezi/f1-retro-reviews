@@ -78,8 +78,8 @@ Checked the live session status while publishing: no F1 session is running right
 
 ## Prize pot
 
-- **ETH price right now:** $2,475.97
-- **Our 2 ETH prize pot:** **$4,951.94** at that price.
+- **ETH price right now:** $2,382.81
+- **Our 2 ETH prize pot:** **$4,765.62** at that price.
 
 ---
 
