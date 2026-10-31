@@ -44,25 +44,25 @@
 - Full name: Lewis Hamilton
 - Race number: 44
 - Nationality: British
-- Team radio: Race radio was recorded for Hamilton (4春秋 tracks: LEWHAM01_44_20240901_154050.mp3, …160143.mp3, …160647.mp3, …162933.mp3). The lookup returned the audio recordings but no transcript text; here is the first actual line/recording: https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LEWHAM01_44_20240901_154050.mp3
+- Team radio: The radar lookup returned audio recordings but no transcript text; the first actual recording for Hamilton: https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LEWHAM01_44_20240901_154050.mp3
 
 ### Lando Norris
 - Full name: Lando Norris
 - Race number: 1
 - Nationality: British
-- Team radio: Race radio was recorded for Norris (6春秋 tracks: LANNOR01_4_20240901_142542.mp3 … 160239.mp3). The lookup returned audio recordings but no transcript text; here is the first actual line/recording: https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LANNOR01_4_20240901_142542.mp3
+- Team radio: The radar lookup returned audio recordings but no transcript text; the first actual recording for Norris: https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LANNOR01_4_20240901_142542.mp3
 
 ### Charles Leclerc
 - Full name: Charles Leclerc
 - Race number: 16
 - Nationality: Monegasque
-- Team radio: Race radio was recorded for Leclerc (7春秋 tracks: CHALEC01_16_20240901_145557.mp3 … 162131.mp3). The lookup returned audio recordings but no transcript text; here is the first actual line/recording: https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/CHALEC01_16_20240901_145557.mp3
+- Team radio: The radar lookup returned audio recordings but no transcript text; the first actual recording for Leclerc: https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/CHALEC01_16_20240901_145557.mp3
 
 ### Oscar Piastri
 - Full name: Oscar Piastri
 - Race number: 81
 - Nationality: Australian
-- Team radio: Race radio was recorded for Piastri (6春秋 tracks: OSCPIA01_81_20240901_145909.mp3 … 162231.mp3). The lookup returned audio recordings but no transcript text; here is the first actual line/recording: https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/OSCPIA01_81_20240901_145909.mp3
+- Team radio: The radar lookup returned audio recordings but no transcript text; the first actual recording for Piastri: https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/OSCPIA01_81_20240901_145909.mp3
 
 ## My Weekend — Lewis Hamilton
 
@@ -72,9 +72,9 @@
 
 ## Meanwhile, Live
 
-No F1 session is running right now — F1 is quiet at the moment. The live session status check returned no active session, and the live-position feed only held stale 2023 data.
+No F1 session is running right now — F1 is quiet at the moment. The live session status check returned no active session.
 
 ## Prize Pot
 
-- **Current ETH price:** $2,246.84 USD
-- **Our 2 ETH pot:** $4,493.68 USD (2 × $2,246.84)
+- **Current ETH price:** $2,246.16 USD
+- **Our 2 ETH pot:** $4,492.32 USD (2 × $2,246.16)
