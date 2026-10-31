@@ -1,80 +1,84 @@
-# 2024 Italian Grand Prix — Race Review: Monza
+# 2024 Italian Grand Prix — Monza Review
 
-> Weekly review for our four-person fantasy league. All facts below come from live lookups run for this post.
+**Round 16 of the 2024 season · 1 September 2024 · Autodromo Nazionale di Monza**
 
-## Race Header
+## Race Result
 
-- **Round:** 16 of the 2024 Formula 1 season (per the 2024 season calendar)
-- **Race date:** 1 September 2024
-- **Circuit:** Autodromo Nazionale di Monza, Monza, Italy
+| Pos | Driver | Team |
+|-----|--------|------|
+| 1 | Charles Leclerc | Ferrari |
+| 2 | Oscar Piastri | McLaren |
+| 3 | Lando Norris | McLaren |
 
-## Race Result — Top Three Finishers
+**Our league drivers:**
+- **Lewis Hamilton (Mercedes):** P5, +22.820s, 53 laps — fastest lap of the race: 1:21.512 (2nd fastest overall)
+- **Lando Norris (McLaren):** P3, +6.153s, 53 laps
+- **Charles Leclerc (Ferrari):** P1, 1:14:40.727, 53 laps — the win
+- **Oscar Piastri (McLaren):** P2, +2.664s, 53 laps
 
-| Position | Driver | Team |
-|----------|--------|------|
-| 1st | Charles Leclerc | Ferrari |
-| 2nd | Oscar Piastri | McLaren |
-| 3rd | Lando Norris | McLaren |
+## Grid (Qualifying Top 3)
 
-## Where Our Four League Drivers Finished
-
-| Driver | Team | Result |
-|--------|------|--------|
-| Lewis Hamilton | Mercedes | P5, +22.820s, 53 laps, fastest lap 1:21.512 (lap 53) |
-| Lando Norris | McLaren | P3, +6.153s, 53 laps, fastest lap 1:21.432 (lap 53) |
-| Charles Leclerc | Ferrari | P1, 53 laps, fastest lap 1:23.226 (lap 33) |
-| Oscar Piastri | McLaren | P2, +2.664s, 53 laps, fastest lap 1:21.943 (lap 53) |
-
-## Grid — Top Three from Qualifying
-
-| Position | Driver | Team | Q3 Time |
-|----------|--------|------|---------|
-| 1st | Lando Norris | McLaren | 1:19.327 |
-| 2nd | Oscar Piastri | McLaren | 1:19.436 |
-| 3rd | George Russell | Mercedes | 1:19.440 |
+1. **Lando Norris (McLaren)** — Q3 1:19.327
+2. **Oscar Piastri (McLaren)** — Q3 1:19.436
+3. **George Russell (Mercedes)** — Q3 1:19.440
 
 ## Championship Watch
 
 - **2024 Drivers' Championship leader:** Max Verstappen (Red Bull) — 437 points, 9 wins
-- **2024 Constructors' Championship leader:** McLaren — 666 points
+- **2024 Constructors' Championship leader:** McLaren — 666 points, 5 wins
 
 ## Driver Spotlights
 
-### Lewis Hamilton
-- Full name: Lewis Hamilton
-- Race number: 44
-- Nationality: British
-- Team radio: The radar lookup returned audio recordings but no transcript text; the first actual recording for Hamilton: https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LEWHAM01_44_20240901_154050.mp3
+**Lewis Hamilton** — Lewis Hamilton, race number 44, British
 
-### Lando Norris
-- Full name: Lando Norris
-- Race number: 1
-- Nationality: British
-- Team radio: The radar lookup returned audio recordings but no transcript text; the first actual recording for Norris: https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LANNOR01_4_20240901_142542.mp3
+Team-radio lines from the race (audio recordings):
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LEWHAM01_44_20240901_154050.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LEWHAM01_44_20240901_160143.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LEWHAM01_44_20240901_160647.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LEWHAM01_44_20240901_162933.mp3
 
-### Charles Leclerc
-- Full name: Charles Leclerc
-- Race number: 16
-- Nationality: Monegasque
-- Team radio: The radar lookup returned audio recordings but no transcript text; the first actual recording for Leclerc: https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/CHALEC01_16_20240901_145557.mp3
+**Lando Norris** — Lando Norris, race number 1, British
 
-### Oscar Piastri
-- Full name: Oscar Piastri
-- Race number: 81
-- Nationality: Australian
-- Team radio: The radar lookup returned audio recordings but no transcript text; the first actual recording for Piastri: https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/OSCPIA01_81_20240901_145909.mp3
+Team-radio lines from the race (audio recordings):
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LANNOR01_4_20240901_142542.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LANNOR01_4_20240901_152319.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LANNOR01_4_20240901_152758.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LANNOR01_4_20240901_153532.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LANNOR01_4_20240901_155020.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LANNOR01_4_20240901_160239.mp3
 
-## My Weekend — Lewis Hamilton
+**Charles Leclerc** — Charles Leclerc, race number 16, Monegasque
 
-- **Fastest lap of the race:** 1:21.512 on lap 53
-- **Pit stops:** 2 stops — lap 15 (13:25:23 UTC) and lap 37 (13:56:35 UTC)
-- **Weather during the race:** Dry (rainfall 0). Air temperature around 33.2°C, track temperature 52–54°C, humidity 33–38%, light wind 0.7–3.2 m/s, pressure ~993.5–993.9 hPa.
+Team-radio lines from the race (audio recordings):
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/CHALEC01_16_20240901_145557.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/CHALEC01_16_20240901_152422.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/CHALEC01_16_20240901_152652.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/CHALEC01_16_20240901_154627.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/CHALEC01_16_20240901_160915.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/CHALEC01_16_20240901_161929.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/CHALEC01_16_20240901_162131.mp3
+
+**Oscar Piastri** — Oscar Piastri, race number 81, Australian
+
+Team-radio lines from the race (audio recordings):
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/OSCPIA01_81_20240901_145909.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/OSCPIA01_81_20240901_151235.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/OSCPIA01_81_20240901_151853.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/OSCPIA01_81_20240901_155413.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/OSCPIA01_81_20240901_155610.mp3
+- https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/OSCPIA01_81_20240901_162231.mp3
+
+## My Weekend (Lewis Hamilton)
+
+- **Fastest lap of the race:** 1:21.512 on lap 53 (ranked 2nd fastest of the race)
+- **Pit stops:** 2 stops — lap 15 (pit-lane time 24.4s) and lap 37 (pit-lane time 24.1s)
+- **Weather during the race:** Dry — no rainfall recorded. Air temperature ~33.2–33.9 °C, track temperature ~52–54 °C, humidity 31–38%, pressure ~993.5–993.9 hPa, light winds 0.4–3.2 m/s from varying directions. Readings taken across the race session window on 1 Sep 2024.
 
 ## Meanwhile, Live
 
-No F1 session is running right now — F1 is quiet at the moment. The live session status check returned no active session.
+F1 is quiet at the moment — no Formula 1 session is currently running, so there is no live running order to report.
 
 ## Prize Pot
 
-- **Current ETH price:** $2,246.16 USD
-- **Our 2 ETH pot:** $4,492.32 USD (2 × $2,246.16)
+- Current ETH price: **$2,247.40 USD**
+- Our 2 ETH pot is worth **$4,494.80 USD** at that price.
