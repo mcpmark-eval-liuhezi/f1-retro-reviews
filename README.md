@@ -6,4 +6,4 @@ Home of our four-person fantasy league's weekly race review posts, as we replay 
 - League picks: Lewis Hamilton, Lando Norris, Charles Leclerc, Oscar Piastri.
 - Season prize pot: 2 ETH.
 
-*Last updated: 2026-10-31 — ETH spot price $2,247.40 → 2 ETH pot worth $4,494.80.*
+*Last updated: 2026-10-31 — ETH spot price $2,249.86 → 2 ETH pot worth $4,499.72.*
