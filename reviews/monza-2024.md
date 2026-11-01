@@ -35,24 +35,24 @@ All figures below come from live F1 data lookups taken for this post.
 ## Driver spotlights
 
 - **Lewis Hamilton** — Full name: Lewis Hamilton; race number: 44; nationality: British.
-  Team radio: the team-radio lookup returned no lines for this race, so no transcribed radio lines are available.
+  Team radio: no transcribed line available from the race radio feed; audio recording from the race: https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LEWHAM01_44_20240901_154050.mp3 (13:41 UTC) and https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/LEWHAM01_44_20240901_160143.mp3 (14:02 UTC).
 - **Lando Norris** — Full name: Lando Norris; race number: 1; nationality: British.
-  Team radio: no transcribed line available.
+  Team radio: no transcribed line available; audio recording: https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/MAXVER01_1_20240901_150504.mp3.
 - **Charles Leclerc** — Full name: Charles Leclerc; race number: 16; nationality: Monegasque.
-  Team radio: no transcribed line available.
+  Team radio: no transcribed line available; audio recording: https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/CHALEC01_16_20240901_145557.mp3.
 - **Oscar Piastri** — Full name: Oscar Piastri; race number: 81; nationality: Australian.
-  Team radio: no transcribed line available.
+  Team radio: no transcribed line available; audio recording: https://livetiming.formula1.com/static/2024/2024-09-01_Italian_Grand_Prix/2024-09-01_Race/TeamRadio/OSCPIA01_81_20240901_145909.mp3.
 
 ## My weekend — Lewis Hamilton
 
 - **Fastest lap of the race: 1:21.512 on lap 53** (ranked 2nd fastest overall).
-- **Pit stops: the pit-stop telemetry API was unavailable (error), but lap-time data shows one stop — in-lap on lap 16 (1:45.664, dropping to P10) and exit lap 17 (1:24.843).**
-- **Weather during the race: weather data was unavailable from the live lookup (API errors), so current weather figures could not be confirmed.**
+- **Pit stops: the pit-stop data endpoint was unavailable (401 error), but lap-time data shows clearly slow laps on lap 15 (1:30.365, P6) and lap 16 (1:45.664, P10), consistent with pit stops around laps 15–16; exact stop count and timings could not be confirmed from the live feed.**
+- **Weather during the race: the live weather endpoint was unavailable (401 error); race-day weather from the timing feed: dry throughout, rainfall 0 mm, air temperature ~33.2–33.9 °C, track temperature ~52–54 °C, humidity 31–38%, light winds 0.7–3.2 m/s.**
 
 ## Meanwhile, live
 
-The live session check returned no active session, and the live timing, positions, race control, weather, team-radio and car-data endpoints all returned authentication errors — **F1 is quiet at the moment; no F1 session is running right now.**
+The live session check returned no active session and the live timing, positions, weather and radio endpoints returned 401 errors, so **F1 is quiet at the moment** — no F1 session is running right now.
 
 ## Prize pot
 
-Live ETH price: **$2,264.04 USD**. Our 2 ETH pot is therefore worth **≈ $4,528.08 USD** at this price.
+Live ETH price: **$2,261.43 USD**. Our 2 ETH pot is therefore worth **≈ $4,522.86 USD** at this price.
