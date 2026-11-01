@@ -55,4 +55,4 @@ The live session check returned no active session and the live timing, positions
 
 ## Prize pot
 
-Live ETH price: **$2,261.43 USD**. Our 2 ETH pot is therefore worth **≈ $4,522.86 USD** at this price.
+Live ETH price: **$2,260.84 USD**. Our 2 ETH pot is therefore worth **≈ $4,521.68 USD** at this price.
